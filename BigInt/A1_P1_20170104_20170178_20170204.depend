@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1552146938 source:c:\fci\assignment1\a1_p1_20170104_20170178_20170204\main.cpp
+	<iostream>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<vector>
+	<algorithm>
+	<string>
+
+1562618806 source:e:\fci\second year\second term\data structure\assignments\assignment1\a1_p1_20170204_20170178_20170104\main.cpp
+	<iostream>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<vector>
+	<algorithm>
+	<string>
+

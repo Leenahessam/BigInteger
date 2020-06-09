@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1540675540 source:e:\fci\second year\programming ii\assignments\bigint\main.cpp
+	<iostream>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<vector>
+
+1543148726 source:e:\fci\second year\second term\data structure\assignments\assignment1\bigint\main.cpp
+	<iostream>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<vector>
+
+1552144892 source:c:\fci\second year\assi\assignment1\a1_p1_20170104_20170178_20170204\main.cpp
+	<iostream>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<vector>
+	<algorithm>
+	<string>
+
